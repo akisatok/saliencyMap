@@ -1,0 +1,4 @@
+saliencyMap
+===========
+
+Itti saliency map
